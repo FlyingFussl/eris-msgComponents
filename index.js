@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('./lib/ReactionHandler');
+module.exports = require('./lib/ButtonHandler');
